@@ -1,0 +1,16 @@
+.policy-container{
+    width: 40%;
+    margin: auto;
+}
+.thank-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media only screen and (max-width:576px) {
+    .policy-container{
+        width: 80%;
+    }
+
+}

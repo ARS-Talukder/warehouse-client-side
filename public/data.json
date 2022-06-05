@@ -1,0 +1,107 @@
+[
+    {
+        
+        "name":"Air Bud",
+        "img":"https://i.ibb.co/cX2NyfK/air-bud.jpg",
+        "sd":"Charging Backup will be at least 5-7 hounrs",
+        "price":"1400 BDT",
+        "quantity":"20",
+        "supplier name":"Imran Express"
+
+    },
+    {
+        
+        "name":"Smart Watch",
+        "img":"https://i.ibb.co/WcLrVHz/watch.jpg",
+        "sd":"It can be connected with Android and Iphone also",
+        "price":"3500 BDT",
+        "quantity":"12",
+        "supplier name":"Ali Express"
+
+    },
+    {
+        
+        "name":"SSD 120GB (Transcend)",
+        "img":"https://i.ibb.co/bsVVMPP/ssd.jpg",
+        "sd":"1 Year Warranty",
+        "price":"2600 BDT",
+        "quantity":"13",
+        "supplier name":"South Bangla"
+
+    },
+    {
+        
+        "name":"Hard Disk 512GB (ADATA)",
+        "img":"https://i.ibb.co/JBH1mCn/hard-disk.jpg",
+        "sd":"2 Years Warranty",
+        "price":"3000 BDT",
+        "quantity":"11",
+        "supplier name":"South Bangla"
+
+    },
+    {
+        
+        "name":"Keyboard wireless (A4Tech)",
+        "img":"https://i.ibb.co/jgn3j8q/keyboard.jpg",
+        "sd":"It's a fully pro level Gaming Keyboard",
+        "price":"2215 BDT",
+        "quantity":"26",
+        "supplier name":"South Bangla"
+
+    },
+    {
+        
+        "name":"Headphone",
+        "img":"https://i.ibb.co/dmvV926/headphone.jpg",
+        "sd":"1 year Guarantee",
+        "price":"4230 BDT",
+        "quantity":"4",
+        "supplier name":"Ryans"
+
+    },
+    {
+        
+        "name":"Cooling Fan",
+        "img":"https://i.ibb.co/pwtjkBj/cooling-fan.jpg",
+        "sd":"This is a RGB Cooling Fan",
+        "price":"850 BDT",
+        "quantity":"36",
+        "supplier name":"South Bangla"
+
+    },
+    {
+        
+        "name":"Graphics Card (Transcend)",
+        "img":"https://i.ibb.co/jwk1Bn4/graphics.jpg",
+        "sd":"2 years Warranty",
+        "price":"18000 BDT",
+        "quantity":"6",
+        "supplier name":"Ryans"
+
+    },
+    {
+        
+        "name":"Laptop Stand",
+        "img":"https://i.ibb.co/dpt3MDZ/laptop-stand.jpg",
+        "sd":"It is not fixed",
+        "price":"680 BDT",
+        "quantity":"23",
+        "supplier name":"Enayetpur Stationary"
+
+    },
+    {
+        
+        "name":"Mouse (A4Tech",
+        "img":"https://i.ibb.co/q58BygG/mouse.jpg",
+        "sd":"It is a pro level smooth Gaming mouse",
+        "price":"1240 BDT",
+        "quantity":"9",
+        "supplier name":"South Bangla"
+
+    }
+    
+]
+
+
+
+
