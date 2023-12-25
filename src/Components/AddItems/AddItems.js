@@ -11,7 +11,7 @@ const AddItems = () => {
         const quantity=event.target.quantity.value;
         const supplier=event.target.supplier.value;
         const items={name,img,sd,price,quantity,supplier};
-        fetch('https://serene-dawn-01282.herokuapp.com/items',{
+        fetch('https://warehouse-server-0url.onrender.com/items',{
             method:'POST',
             headers:{
                 'content-type':'application/json'

@@ -9,21 +9,9 @@ const Banner = () => {
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="https://i.ibb.co/5rvyR5J/banner-1.jpg"
+                        src="https://i.postimg.cc/R0k8t59L/banner-1.jpg"
                         alt="First slide"
                     />
-                    <Carousel.Caption>
-                        <h3>Wireless Keyboard</h3>
-                        
-                    </Carousel.Caption>
-                </Carousel.Item>
-                <Carousel.Item>
-                    <img
-                        className="d-block w-100"
-                        src="https://i.ibb.co/Gpw23Qm/banner-2.jpg"
-                        alt="Second slide"
-                    />
-
                     <Carousel.Caption>
                         <h3>Headphone</h3>
                         
@@ -32,12 +20,24 @@ const Banner = () => {
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="https://i.ibb.co/WWSmxfb/banner-3.jpg"
+                        src="https://i.postimg.cc/BQ4rN0Fh/banner-2.jpg"
+                        alt="Second slide"
+                    />
+
+                    <Carousel.Caption>
+                        <h3>VR Box</h3>
+                        
+                    </Carousel.Caption>
+                </Carousel.Item>
+                <Carousel.Item>
+                    <img
+                        className="d-block w-100"
+                        src="https://i.postimg.cc/VvRH2JtK/banner-3.jpg"
                         alt="Third slide"
                     />
 
                     <Carousel.Caption>
-                        <h3>Smart Watch</h3>
+                        <h3>Gadgets</h3>
                         
                     </Carousel.Caption>
                 </Carousel.Item>

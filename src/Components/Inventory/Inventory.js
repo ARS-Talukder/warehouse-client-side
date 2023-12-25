@@ -7,7 +7,7 @@ const Inventory = () => {
     const [item, setItem] = useState({});
     // const [updateQuantity,setUpdateQuantity]=useState(item.quantity);
     useEffect(() => {
-        fetch(`https://serene-dawn-01282.herokuapp.com/items/${id}`)
+        fetch(`https://warehouse-server-0url.onrender.com/items/${id}`)
             .then(res => res.json())
             .then(data => setItem(data))
     }, [id])
@@ -18,7 +18,7 @@ const Inventory = () => {
         const quantity = oldQuantity - 1;
         console.log(quantity);
         const updatedItem = { quantity};
-        const url = `https://serene-dawn-01282.herokuapp.com/items/${id}`;
+        const url = `https://warehouse-server-0url.onrender.com/items/${id}`;
         fetch(url, {
             method: 'PUT',
             headers: {
@@ -36,7 +36,7 @@ const Inventory = () => {
         const inputQuantity = parseInt(event.target.addNumber.value);
         const quantity = oldQuantity + inputQuantity;
         const updatedItem = { quantity };
-        const url = `https://serene-dawn-01282.herokuapp.com/items/${id}`;
+        const url = `https://warehouse-server-0url.onrender.com/items/${id}`;
         fetch(url, {
             method: 'PUT',
             headers: {

@@ -8,7 +8,7 @@ const ManageItem = (props) => {
     const handleDelete=id=>{
         const proceed=window.confirm('Do you want to Delete?');
         if(proceed){
-            const url=`https://serene-dawn-01282.herokuapp.com/items/${id}`;
+            const url=`https://warehouse-server-0url.onrender.com/items/${id}`;
             fetch(url,{
                 method:'DELETE'
             })
